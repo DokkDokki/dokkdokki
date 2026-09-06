@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Doki 👋
 
-<!--
-**DokkDokki/dokkdokki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build creative and technical projects across software, photography, and music.
 
-Here are some ideas to get you started:
+### Current project highlight: [`doki-website`](https://github.com/DokkDokki/doki-website)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Multilingual portfolio and project hub for dokimachine.net
+- Built with **Next.js 16**, **React 19**, **Tailwind CSS 3**, and **Motion for React**
+- Structured into dedicated English, Japanese, and Thai landing experiences
+- Active development happens on the `v2` branch, with `main` reserved for production maintenance
+
+### Quick links
+
+- 🌐 Website: https://dokimachine.net
+- 💻 Portfolio route: `/en/doki`
+- 📷 Photography route: `/en/photography`
+- 🎵 Music route: `/en/music`
